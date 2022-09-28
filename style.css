@@ -1,0 +1,61 @@
+body{
+    background-color: #61828A;
+    color: white;
+    text-align: center;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+.igrac{
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
+
+.karta{
+    width: 80%;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    text-align: center;
+}
+.container{
+    margin-top: 100px;
+}
+
+p{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.frame{
+    background-color: white;
+    max-width: 600px;
+    padding: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius:20px;
+    color: black;
+    
+}
+
+#rezultat{
+    font-size: 3em;
+    margin-bottom: 50px;
+}
+
+#reset{
+    width: 250px;
+    height: 50px;
+    background-color: #61828A;
+    border: none;
+    border-radius:10px;
+    font-weight: bold;
+    color: white;
+}
